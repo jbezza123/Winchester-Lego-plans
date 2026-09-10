@@ -1,6 +1,8 @@
 # Custom Building Instructions: The Winchester Pub (MOC)
 
-An original custom LEGO® build (My Own Creation) inspired by the iconic pub from *Shaun of the Dead*.
+An original custom LEGO® build (not my Own Creation) inspired by the iconic pub from *Shaun of the Dead*.
+Credits for finding: @nerd_bricks yt
+original creator: Gregory??
 
 ---
 
